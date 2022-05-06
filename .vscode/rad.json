@@ -1,1 +1,1 @@
-﻿{"Added":[],"Modified":[{"Id":50110,"Kind":12,"Name":"Data","PackagePath":"/src/Pag50110.DateTypesCard.al"}],"Removed":[{"Id":50100,"Kind":16,"Name":"CustomerListExt","PackagePath":"/src/HelloWorld.al"}]}
+﻿{"Added":[{"Id":50111,"Kind":12,"Name":"Expressions Card","PackagePath":"/src/ExpressionsCard.Page.al"}],"Modified":[{"Id":50110,"Kind":12,"Name":"Data Type Card","PackagePath":"/src/Pag50110.DateTypesCard.al"}],"Removed":[{"Id":50100,"Kind":16,"Name":"CustomerListExt","PackagePath":"/src/HelloWorld.al"}]}
